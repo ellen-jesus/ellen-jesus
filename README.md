@@ -1,4 +1,4 @@
-## Olá! Sou a Ellen 👋   
+## <g-emoji class="g-emoji" alias="hibiscus" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f33a.png">🌺</g-emoji> Olá! Sou a Ellen 👋   
 
 <div align="center">
   <a href="https://github.com/ellen-jesus">
