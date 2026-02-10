@@ -15,7 +15,7 @@
  
  ## Linguagens e Tecnologias <g-emoji class="g-emoji" alias="woman_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">👩‍💻</g-emoji>
   
-  <div style="display: inline_block"><br>
+  <div style="display: inline-block"><br>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> - 
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -
