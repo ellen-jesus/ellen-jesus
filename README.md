@@ -6,12 +6,12 @@
   <img height="155m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen-jesus&layout=compact&langs_count=7&theme=dark"/>
 </div>   -->
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ellen-jesus">
     <img height="155" src="https://github-readme-stats.vercel.app/api?username=ellen-jesus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen-jesus&layout=compact&langs_count=7&theme=dark"/>
   </a>
-</div>
+</div> -->
  
  ## Linguagens e Tecnologias <g-emoji class="g-emoji" alias="woman_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">👩‍💻</g-emoji>
   
